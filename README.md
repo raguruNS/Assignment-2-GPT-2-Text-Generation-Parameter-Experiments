@@ -156,6 +156,6 @@ This assignment provided practical experience with **GPT-2 and Generative AI tex
 
 ## 👨‍💻 Author
 
-**[Your Name]**
+**[NITHEESH]**
 
 Generative AI / Artificial Intelligence Student
